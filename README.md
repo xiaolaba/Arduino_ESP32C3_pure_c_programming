@@ -1,6 +1,18 @@
 # Arduino_ESP32C3_pure_c_programming
 Moving average, fixed point math algorithm benchmarking, ESP32-C3, no FPU should be
 
+### C source code
+[main.ino](main.ino)  
+pure C code, uses Arduino IDE to compile the code, to see whether SCALING FACTOR and performance boosting effectively with ESP32-C3, looks like promising. the testing code.
+
+### Arduino IDE setup for ESP32-C3 and compiling  
+![setting.JPG](setting.JPG)    
+
+### Terminal output for the testing result  
+![testing.JPG](testing.JPG)  
+
+
+### further reading  
 according to ESpressive, ESP32-C3 is RISC-V and no FPU.  
 
 FixedPID (https://github.com/citycafe578/FixedPID)  
