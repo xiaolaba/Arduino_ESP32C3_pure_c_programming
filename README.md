@@ -2,6 +2,8 @@
 Moving average, fixed point math algorithm benchmarking, ESP32-C3, no FPU should be.  
 local project archive, D:\iphone_air_drop_photo\DIY\2026-09-06_FixMathPID\main
 
+https://developer.espressif.com/blog/2025/10/cores_with_fpu/
+
 ### C source code
 [main.ino](main.ino)  
 pure C code, uses Arduino IDE to compile the code, to see whether SCALING FACTOR and performance boosting effectively with ESP32-C3, looks like promising. the testing code.
