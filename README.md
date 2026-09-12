@@ -6,8 +6,8 @@ according to ESpressive, ESP32-C3 is RISC-V and no FPU.
 FixedPID (https://github.com/citycafe578/FixedPID)  
 it has routine with IIR filtering, performance with SCALE up 1000 and software division has to be with this ESP32-C3.  
 
-https://documentation.espressif.com/esp32-c3_datasheet_en.pdf
-https://documentation.espressif.com/esp32-c3_technical_reference_manual_en.pdf#riscvcpu
+https://documentation.espressif.com/esp32-c3_datasheet_en.pdf  
+https://documentation.espressif.com/esp32-c3_technical_reference_manual_en.pdf#riscvcpu  
 
 
 ```
