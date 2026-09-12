@@ -1,6 +1,14 @@
 # Arduino_ESP32C3_pure_c_programming
 Moving average, fixed point math algorithm benchmarking, ESP32-C3, no FPU should be.  
 local project archive, D:\iphone_air_drop_photo\DIY\2026-09-06_FixMathPID\main
+hardware, ESP32-C3 super mini.  
+
+### REF:
+[Floating-Point Units on Espressif SoCs_ Why (and when) they matter · Developer Portal.htm](Floating-Point Units on Espressif SoCs_ Why (and when) they matter · Developer Portal.htm)  
+[ESP32_FPU_DISCUSSION.pdf](ESP32_FPU_DISCUSSION.pdf)  
+[ESP32_cores_with_fpu_benchmark.c](ESP32_cores_with_fpu_benchmark.c)  
+[https://github.com/citycafe578/FixedPID/blob/main/src/FixedPID.cpp](https://github.com/citycafe578/FixedPID/blob/main/src/FixedPID.cpp)  
+
 
 https://developer.espressif.com/blog/2025/10/cores_with_fpu/
 
