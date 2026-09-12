@@ -1,5 +1,6 @@
 # Arduino_ESP32C3_pure_c_programming
-Moving average, fixed point math algorithm benchmarking, ESP32-C3, no FPU should be
+Moving average, fixed point math algorithm benchmarking, ESP32-C3, no FPU should be.  
+local project archive, D:\iphone_air_drop_photo\DIY\2026-09-06_FixMathPID\main
 
 ### C source code
 [main.ino](main.ino)  
@@ -12,7 +13,13 @@ pure C code, uses Arduino IDE to compile the code, to see whether SCALING FACTOR
 ![testing.JPG](testing.JPG)  
 
 
+### datasheet, local cache   
+[esp32-c3_datasheet_en.pdf](esp32-c3_datasheet_en.pdf)  
+[esp32-c3_technical_reference_manual_en.pdf](esp32-c3_technical_reference_manual_en.pdf)    
+
 ### further reading  
+
+
 according to ESpressive, ESP32-C3 is RISC-V and no FPU.  
 
 FixedPID (https://github.com/citycafe578/FixedPID)  
@@ -50,6 +57,9 @@ ESP32-S3Xtensa LX72x（僅單精度 float，帶矢量/DSP 擴充）
 
 ```
 
+
+### 32-bit multiplier and 32-bit divider 代表啥意思 
+![ESP32-C3_MUL_DIV_EXTENSION.JPG](ESP32-C3_MUL_DIV_EXTENSION.JPG)  
 
 ```
 https://documentation.espressif.com/esp32-c3_datasheet_en.pdf
