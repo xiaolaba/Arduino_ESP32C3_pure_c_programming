@@ -108,7 +108,7 @@ pure C code, uses Arduino IDE to compile the code, to see whether SCALING FACTOR
 
 static const char *TAG = "PID_BENCHMARK";
 
-//ESP32 C3, RISC-V and FPU available
+//ESP32 C3, RISC-V and no FPU available
 //#define PID_SCALE 0x3FF // 0~1023
 #define PID_SHIFT 10
 
